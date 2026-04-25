@@ -1,0 +1,2 @@
+Progress Check-up
+25 April 2026 : 1.Modifying data steps are in Data modifier.ipynb including Preliminary EDA analysis and dataset info  2.Created a first baseline model and basic evaluation results The code use to train model is in train_Ai.ipynb Next week goals: 1.Finding way to synthesize data that are usable with current Dataset 2.Try to modified dataset or change models to improve the model results.
