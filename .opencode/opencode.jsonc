@@ -1,0 +1,22 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "google/gemma-4-31b-it",
+  "plugin": [
+    "opencode-antigravity-auth@latest",
+    "opencode-plugin-openspec"
+  ],
+  "provider": {
+    "google": {
+      "options": {
+        "apiKey": "AIzaSyB6f-MqLzXmihCzMNcjEfyiXK_csq_80_0"
+      },
+      "models": {
+        "gemma-4-31b-it": {
+          "name": "gemma-4-31b-it"
+        }
+      }
+    }
+  },
+  
+  "permission": "allow"
+}
