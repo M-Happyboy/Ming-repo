@@ -8,7 +8,7 @@
   "provider": {
     "google": {
       "options": {
-        "apiKey": "AIzaSyB6f-MqLzXmihCzMNcjEfyiXK_csq_80_0"
+        "apiKey": ""
       },
       "models": {
         "gemma-4-31b-it": {
